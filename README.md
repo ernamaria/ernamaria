@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZ5OWg2ODIxazVpdGxoZm9yZ3kwMTYxd2QxMXluMjJoajV1M3pmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="300"/>
+  <img src="https://i.pinimg.com/564x/47/56/56/475656f7fd0291ad3f6613b01c46ae0c.jpg" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mariabotalova/">
@@ -10,6 +10,11 @@
   </a>
 </div>
 
+---
+
+### :woman_technologist: About Me :
+### :chart_with_upwards_trend: I am a Data Analyst.
+### :computer: I have almost 2 years of experience in IT.
 ---
 
 ### :hammer_and_wrench: Technology stack :
