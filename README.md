@@ -14,7 +14,7 @@
 
 ### :woman_technologist: About Me :
 ### :chart_with_upwards_trend: I am a Data Analyst.
-### :computer: I have almost 2 years of experience in IT.
+### :computer: I have 2 years of experience in IT.
 ---
 
 ### :hammer_and_wrench: Technology stack :
